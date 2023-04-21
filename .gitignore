@@ -1,5 +1,3 @@
-target
-launch.json
-.rustc_info.json
-CACHEDIR.TAG
+xkcd-bot/target
 xkcd-bot/Secrets.toml
+.vscode/launch.json
