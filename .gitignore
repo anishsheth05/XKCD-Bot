@@ -1,5 +1,5 @@
 target
-Secrets.toml
 launch.json
 .rustc_info.json
 CACHEDIR.TAG
+xkcd-bot/Secrets.toml
